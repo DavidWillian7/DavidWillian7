@@ -2,7 +2,7 @@
 
 ### Olá 👋, eu sou David Willian, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte 🏛. Atualmente estou buscando evoluir como dev front-end.
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/DavidWillian7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidWillian7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWillian7&layout=compact&langs_count=7&theme=dark"/>

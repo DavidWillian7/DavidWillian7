@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=DavidWillian7.DavidWillian7)
-
 ### Olá 👋, eu sou David Willian, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte 🏛. Atualmente estou buscando evoluir como dev front-end.
 
 <div align="center">

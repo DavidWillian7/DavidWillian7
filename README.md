@@ -1,4 +1,4 @@
-### 👋Olá, eu sou David Willian, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte 🏛. Atualmente estou buscando evoluir como dev front-end.
+### Olá 👋, eu sou David Willian, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte 🏛. Atualmente estou buscando evoluir como dev front-end.
 
 <div align="center">
   <a href="https://github.com/DavidWillian7">

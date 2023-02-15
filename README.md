@@ -1,4 +1,4 @@
-## Olá 👋, eu sou David Willian, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte 🏛.
+## Olá 👋, eu sou David Willian, Bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte 🏛.
 
 <div align="center">
   <a href="https://github.com/DavidWillian7">

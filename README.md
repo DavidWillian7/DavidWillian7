@@ -9,7 +9,7 @@
   <img align="center" alt="DW-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="DW-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="DW-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DW-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="DW-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="DW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>

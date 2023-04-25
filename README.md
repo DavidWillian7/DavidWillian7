@@ -1,4 +1,4 @@
-## Olá 👋! Seja bem-vindo(a) ao meu perfil do GitHub. Meu nome é David Willian, sou bacharel em Ciências e Tecnologia pela <a href="https://www.ufrn.br/" target="_blank">UFRN</a> 🏛. Atualmente, sou Residente em Desenvolvimento de Software no Tribunal Regional Federal da 5º Região, em parceria com o <a href="https://www.metropoledigital.ufrn.br/portal/" target="_blank">IMD</a>. Sou apaixonado por tecnologia e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
+## Olá 👋! Seja bem-vindo(a) ao meu perfil do GitHub. Meu nome é David Willian, sou bacharel em Ciências e Tecnologia pela UFRN 🏛. Atualmente, sou Residente em Desenvolvimento de Software no Tribunal Regional Federal da 5º Região, em parceria com o IMD. Sou apaixonado por tecnologia e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
 <div align="center">
   <a href="https://github.com/DavidWillian7">
@@ -17,6 +17,6 @@
 ##  
 
 <div>
-  <a href="https://www.linkedin.com/in/davidWillianPJ" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/davidWillianPJ"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

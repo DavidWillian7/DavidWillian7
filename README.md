@@ -1,4 +1,5 @@
-## Olá 👋! Seja bem-vindo(a) ao meu perfil do GitHub. Meu nome é David Willian, sou bacharel em Ciências e Tecnologia pela UFRN 🏛. Atualmente, sou Residente em Desenvolvimento de Software no Tribunal Regional Federal da 5º Região, em parceria com o IMD. Sou apaixonado por tecnologia e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
+## Olá 👋! Seja bem-vindo(a) ao meu perfil do GitHub.
+<p>Meu nome é David Willian, sou bacharel em Ciências e Tecnologia pela UFRN 🏛. Atualmente, sou Residente em Desenvolvimento de Software no Tribunal Regional Federal da 5º Região, em parceria com o IMD. Sou apaixonado por tecnologia e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.</p>
 
 <div align="center">
   <a href="https://github.com/DavidWillian7">

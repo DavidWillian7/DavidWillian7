@@ -1,11 +1,6 @@
 ## Olá 👋! Seja bem-vindo(a) ao meu perfil do GitHub.
 <p>Meu nome é David Willian, sou bacharel em Ciências e Tecnologia pela UFRN 🏛. Atualmente, sou Residente em Desenvolvimento de Software no Tribunal Regional Federal da 5º Região, em parceria com o IMD. Sou apaixonado por tecnologia e estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.</p>
 
-<div align="center">
-  <a href="https://github.com/DavidWillian7">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidWillian7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWillian7&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="DW-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="DW-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
